@@ -1,165 +1,12 @@
-.bar-chart {
-  background: url("../images/generated-sprite-436c3f2.svg") no-repeat;
-  background-position: 0 59.375%;
-  width: 40px;
-  height: 30px;
-}
-.bar-chart-active {
-  background: url("../images/generated-sprite-436c3f2.svg") no-repeat;
-  background-position: 15.09433962% 59.375%;
-  width: 40px;
-  height: 30px;
-}
-.carousel-next {
-  background: url("../images/generated-sprite-436c3f2.svg") no-repeat;
-  background-position: 0 32.14285714%;
-  width: 50px;
-  height: 50px;
-}
-.carousel-previous {
-  background: url("../images/generated-sprite-436c3f2.svg") no-repeat;
-  background-position: 19.60784314% 32.14285714%;
-  width: 50px;
-  height: 50px;
-}
-.close-button {
-  background: url("../images/generated-sprite-436c3f2.svg") no-repeat;
-  background-position: 86.78571429% 57.57575758%;
-  width: 25px;
-  height: 25px;
-}
-.data-picto {
-  background: url("../images/generated-sprite-436c3f2.svg") no-repeat;
-  background-position: 59.09090909% 72.6744186%;
-  width: 19px;
-  height: 18px;
-}
-.download-picto {
-  background: url("../images/generated-sprite-436c3f2.svg") no-repeat;
-  background-position: 95.03546099% 56.88622754%;
-  width: 23px;
-  height: 23px;
-}
-.download-picto-active {
-  background: url("../images/generated-sprite-436c3f2.svg") no-repeat;
-  background-position: 51.77304965% 74.8502994%;
-  width: 23px;
-  height: 23px;
-}
-.download-table-share {
-  background: url("../images/generated-sprite-436c3f2.svg") no-repeat;
-  background-position: 99.64028777% 27.60736196%;
-  width: 27px;
-  height: 27px;
-}
-.embed-table-share {
-  background: url("../images/generated-sprite-436c3f2.svg") no-repeat;
-  background-position: 43.16546763% 58.28220859%;
-  width: 27px;
-  height: 27px;
-}
-.excel-picto {
-  background: url("../images/generated-sprite-436c3f2.svg") no-repeat;
-  background-position: 0 100%;
-  width: 30px;
-  height: 35px;
-}
-.footer-facebook {
-  background: url("../images/generated-sprite-436c3f2.svg") no-repeat;
-  background-position: 55.55555556% 30.82191781%;
-  width: 44px;
-  height: 44px;
-}
-.footer-linkedin {
-  background: url("../images/generated-sprite-436c3f2.svg") no-repeat;
-  background-position: 72.4137931% 30.82191781%;
-  width: 44px;
-  height: 44px;
-}
-.footer-twitter {
-  background: url("../images/generated-sprite-436c3f2.svg") no-repeat;
-  background-position: 89.27203065% 30.82191781%;
-  width: 44px;
-  height: 44px;
-}
-.go-top {
-  background: url("../images/generated-sprite-436c3f2.svg") no-repeat;
-  background-position: 30.18867925% 58.64197531%;
-  width: 40px;
-  height: 28px;
-}
-.line-chart {
-  background: url("../images/generated-sprite-436c3f2.svg") no-repeat;
-  background-position: 0 78.125%;
-  width: 40px;
-  height: 30px;
-}
-.line-chart-active {
-  background: url("../images/generated-sprite-436c3f2.svg") no-repeat;
-  background-position: 15.09433962% 78.125%;
-  width: 40px;
-  height: 30px;
-}
+
+
 .NMx-logo {
-  background: url("../images/generated-sprite-436c3f2.svg") no-repeat;
+  background: url("../images/NMx-logo.png") no-repeat;
   background-position: 0 0;
   width: 305px;
   height: 45px;
 }
-.png-picto {
-  background: url("../images/generated-sprite-436c3f2.svg") no-repeat;
-  background-position: 10.90909091% 100%;
-  width: 30px;
-  height: 35px;
-}
-.rank-more-countries {
-  background: url("../images/generated-sprite-436c3f2.svg") no-repeat;
-  background-position: 50.68965517% 58.28220859%;
-  width: 15px;
-  height: 27px;
-}
-.ranking-picto {
-  background: url("../images/generated-sprite-436c3f2.svg") no-repeat;
-  background-position: 65.73426573% 72.6744186%;
-  width: 19px;
-  height: 18px;
-}
-.search-button {
-  background: url("../images/generated-sprite-436c3f2.svg") no-repeat;
-  background-position: 38.46153846% 31.25%;
-  width: 45px;
-  height: 46px;
-}
-.share-facebook {
-  background: url("../images/generated-sprite-436c3f2.svg") no-repeat;
-  background-position: 58.27338129% 57.57575758%;
-  width: 27px;
-  height: 25px;
-}
-.share-linkedin {
-  background: url("../images/generated-sprite-436c3f2.svg") no-repeat;
-  background-position: 67.98561151% 57.57575758%;
-  width: 27px;
-  height: 25px;
-}
-.share-picto {
-  background: url("../images/generated-sprite-436c3f2.svg") no-repeat;
-  background-position: 29.41176471% 78.125%;
-  width: 33px;
-  height: 30px;
-}
-.share-picto-active {
-  background: url("../images/generated-sprite-436c3f2.svg") no-repeat;
-  background-position: 41.54411765% 78.125%;
-  width: 33px;
-  height: 30px;
-}
-.share-twitter {
-  background: url("../images/generated-sprite-436c3f2.svg") no-repeat;
-  background-position: 77.69784173% 57.57575758%;
-  width: 27px;
-  height: 25px;
-}
+
 /* latin-ext */
 @font-face {
   font-family: 'Open Sans';
@@ -412,19 +259,7 @@ footer ul:last-of-type {
 footer ul:last-of-type li {
   display: inline-block;
 }
-footer ul:last-of-type li .footer-linkedin,
-footer ul:last-of-type li .footer-facebook,
-footer ul:last-of-type li .footer-twitter {
-  cursor: pointer;
-  display: inline-block;
-  transition: 0.3s;
-  opacity: 0.9;
-}
-footer ul:last-of-type li .footer-linkedin:hover,
-footer ul:last-of-type li .footer-facebook:hover,
-footer ul:last-of-type li .footer-twitter:hover {
-  opacity: 1;
-}
+
 footer .copyright {
   color: #858585;
 }
@@ -488,10 +323,7 @@ a:hover {
   margin-left: auto;
   margin-right: auto;
 }
-/**
- * Taken from https://gitlab.intra/front/nation-master/nm-django/blob/master/static/nm_app/css/style.css
- * TODO: explode the sprite icons.png into units and rebuild the sprite with gulp
- */
+
 .icn {
   display: inline-block;
   vertical-align: middle;
